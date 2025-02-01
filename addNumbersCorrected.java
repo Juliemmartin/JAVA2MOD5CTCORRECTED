@@ -4,6 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class addNumbersCorrected {
+    
     //Initialize sum and count to zero to start
     private static int count = 0; 
 
